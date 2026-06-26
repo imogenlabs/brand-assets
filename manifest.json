@@ -1,0 +1,6 @@
+{
+  "$schema": "./manifest.schema.json",
+  "version": 1,
+  "cdnBase": "https://cdn.jsdelivr.net/gh/imogenlabs/brand-assets",
+  "assets": []
+}

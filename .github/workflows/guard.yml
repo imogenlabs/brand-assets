@@ -1,0 +1,53 @@
+name: guard
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Block disallowed file types
+        run: |
+          set -euo pipefail
+          fail=0
+          while IFS= read -r f; do
+            base=$(basename "$f")
+            case "$f" in
+              # PNG is allowed only under brand/
+              brand/*.png) ;;
+              # Allowed everywhere
+              *.webp|*.svg|*.json|*.md|*.yml|*.yaml) ;;
+              # Repo-structure / config files
+              */.gitkeep|.gitkeep|.gitignore|LICENSE) ;;
+              .github/*) ;;
+              *.png)
+                echo "::error file=$f::PNG is only allowed under brand/ — screenshots must be WebP"
+                fail=1 ;;
+              *)
+                echo "::error file=$f::Disallowed file type committed: $f (only .webp/.svg/.png[brand]/.json/.md/.yml/.gitkeep permitted)"
+                fail=1 ;;
+            esac
+          done < <(git ls-files)
+          if [ "$fail" -ne 0 ]; then
+            echo "Guard failed: stray or disallowed files present. This repo is images + manifest only."
+            exit 1
+          fi
+          echo "File-type guard passed."
+
+      - name: Validate manifest.json parses
+        run: |
+          set -euo pipefail
+          if [ ! -f manifest.json ]; then
+            echo "::error::manifest.json is missing"
+            exit 1
+          fi
+          if ! jq empty manifest.json; then
+            echo "::error file=manifest.json::manifest.json is not valid JSON"
+            exit 1
+          fi
+          echo "manifest.json is valid JSON."

@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cdn.jsdelivr.net/gh/imogenlabs/brand-assets@main/manifest.schema.json",
+  "title": "Imogen Labs brand-assets manifest",
+  "description": "Machine-readable index of every product image in this repo. One entry per asset.",
+  "type": "object",
+  "required": ["version", "cdnBase", "assets"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "Relative path to this schema."
+    },
+    "version": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Manifest format version."
+    },
+    "cdnBase": {
+      "type": "string",
+      "format": "uri",
+      "description": "jsDelivr base URL (without ref or path). Consumers append @<ref>/<path>."
+    },
+    "assets": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/asset" }
+    }
+  },
+  "$defs": {
+    "asset": {
+      "type": "object",
+      "required": ["product", "screen", "formFactor", "theme", "path"],
+      "additionalProperties": false,
+      "properties": {
+        "product": {
+          "type": "string",
+          "description": "Product slug, top-level directory (e.g. \"eightly/os\", \"homelabarr/ce\", \"neurohelper\")."
+        },
+        "screen": {
+          "type": "string",
+          "description": "Stable kebab-case screen slug, identical across themes and form factors (e.g. \"dashboard\", \"app-store\")."
+        },
+        "formFactor": {
+          "type": "string",
+          "enum": ["desktop", "mobile", "tablet", "diagram"],
+          "description": "Capture form factor; \"diagram\" for authored visuals."
+        },
+        "theme": {
+          "type": "string",
+          "enum": ["dark", "light"],
+          "description": "Theme variant. Every asset ships both."
+        },
+        "sourceEnv": {
+          "type": "string",
+          "description": "Where the capture came from (e.g. \"os-dev.eight.ly\", \"real iPad Air M3\", \"authored\")."
+        },
+        "captureDate": {
+          "type": "string",
+          "format": "date",
+          "description": "ISO-8601 date the asset was captured or authored (YYYY-MM-DD)."
+        },
+        "viewport": {
+          "type": "string",
+          "description": "Capture viewport, e.g. \"1280x800@2x\"."
+        },
+        "width": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Pixel width of the asset."
+        },
+        "height": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Pixel height of the asset."
+        },
+        "bytes": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "File size in bytes."
+        },
+        "path": {
+          "type": "string",
+          "description": "Repo-relative path to the file, e.g. \"eightly/os/desktop/dark/dashboard.webp\"."
+        }
+      }
+    }
+  }
+}
