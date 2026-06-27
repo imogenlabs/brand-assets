@@ -358,6 +358,17 @@
     },
     {
       "product": "eightly/container",
+      "screen": "app-store",
+      "formFactor": "desktop",
+      "theme": "dark",
+      "captureDate": "2026-06-26",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 132036,
+      "path": "eightly/container/desktop/dark/app-store.webp"
+    },
+    {
+      "product": "eightly/container",
       "screen": "calendar",
       "formFactor": "desktop",
       "theme": "dark",
@@ -410,6 +421,17 @@
       "height": 1600,
       "bytes": 52582,
       "path": "eightly/container/desktop/dark/settings.webp"
+    },
+    {
+      "product": "eightly/container",
+      "screen": "app-store",
+      "formFactor": "desktop",
+      "theme": "light",
+      "captureDate": "2026-06-26",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 132896,
+      "path": "eightly/container/desktop/light/app-store.webp"
     },
     {
       "product": "eightly/container",
