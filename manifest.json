@@ -569,6 +569,19 @@
     },
     {
       "product": "eightly/os",
+      "screen": "file-sharing",
+      "formFactor": "desktop",
+      "theme": "dark",
+      "sourceEnv": "os.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 129306,
+      "path": "eightly/os/desktop/dark/file-sharing.webp"
+    },
+    {
+      "product": "eightly/os",
       "screen": "infrastructure",
       "formFactor": "desktop",
       "theme": "dark",
@@ -654,6 +667,19 @@
       "height": 1600,
       "bytes": 120824,
       "path": "eightly/os/desktop/light/dashboard.webp"
+    },
+    {
+      "product": "eightly/os",
+      "screen": "file-sharing",
+      "formFactor": "desktop",
+      "theme": "light",
+      "sourceEnv": "os.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 126138,
+      "path": "eightly/os/desktop/light/file-sharing.webp"
     },
     {
       "product": "eightly/os",
