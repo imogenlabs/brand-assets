@@ -361,10 +361,12 @@
       "screen": "app-store",
       "formFactor": "desktop",
       "theme": "dark",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "app.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 132036,
+      "bytes": 127672,
       "path": "eightly/container/desktop/dark/app-store.webp"
     },
     {
@@ -372,10 +374,12 @@
       "screen": "calendar",
       "formFactor": "desktop",
       "theme": "dark",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "app.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 75040,
+      "bytes": 46442,
       "path": "eightly/container/desktop/dark/calendar.webp"
     },
     {
@@ -383,10 +387,12 @@
       "screen": "deployed",
       "formFactor": "desktop",
       "theme": "dark",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "app.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 122190,
+      "bytes": 128980,
       "path": "eightly/container/desktop/dark/deployed.webp"
     },
     {
@@ -394,10 +400,12 @@
       "screen": "monitoring",
       "formFactor": "desktop",
       "theme": "dark",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "app.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 120542,
+      "bytes": 110622,
       "path": "eightly/container/desktop/dark/monitoring.webp"
     },
     {
@@ -405,10 +413,12 @@
       "screen": "requests",
       "formFactor": "desktop",
       "theme": "dark",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "app.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 44308,
+      "bytes": 48174,
       "path": "eightly/container/desktop/dark/requests.webp"
     },
     {
@@ -416,10 +426,12 @@
       "screen": "settings",
       "formFactor": "desktop",
       "theme": "dark",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "app.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 52582,
+      "bytes": 86878,
       "path": "eightly/container/desktop/dark/settings.webp"
     },
     {
@@ -427,10 +439,12 @@
       "screen": "app-store",
       "formFactor": "desktop",
       "theme": "light",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "app.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 132896,
+      "bytes": 122612,
       "path": "eightly/container/desktop/light/app-store.webp"
     },
     {
@@ -438,10 +452,12 @@
       "screen": "calendar",
       "formFactor": "desktop",
       "theme": "light",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "app.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 76542,
+      "bytes": 47186,
       "path": "eightly/container/desktop/light/calendar.webp"
     },
     {
@@ -449,10 +465,12 @@
       "screen": "deployed",
       "formFactor": "desktop",
       "theme": "light",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "app.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 125062,
+      "bytes": 128968,
       "path": "eightly/container/desktop/light/deployed.webp"
     },
     {
@@ -460,10 +478,12 @@
       "screen": "monitoring",
       "formFactor": "desktop",
       "theme": "light",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "app.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 122710,
+      "bytes": 117068,
       "path": "eightly/container/desktop/light/monitoring.webp"
     },
     {
@@ -471,10 +491,12 @@
       "screen": "requests",
       "formFactor": "desktop",
       "theme": "light",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "app.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 43420,
+      "bytes": 48088,
       "path": "eightly/container/desktop/light/requests.webp"
     },
     {
@@ -482,10 +504,12 @@
       "screen": "settings",
       "formFactor": "desktop",
       "theme": "light",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "app.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 53860,
+      "bytes": 86364,
       "path": "eightly/container/desktop/light/settings.webp"
     },
     {
@@ -691,10 +715,12 @@
       "screen": "app-store",
       "formFactor": "desktop",
       "theme": "dark",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "pro-dev.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 168178,
+      "bytes": 128942,
       "path": "eightly/professional/desktop/dark/app-store.webp"
     },
     {
@@ -702,10 +728,12 @@
       "screen": "containers",
       "formFactor": "desktop",
       "theme": "dark",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "pro-dev.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 113336,
+      "bytes": 127776,
       "path": "eightly/professional/desktop/dark/containers.webp"
     },
     {
@@ -713,10 +741,12 @@
       "screen": "dashboard",
       "formFactor": "desktop",
       "theme": "dark",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "pro-dev.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 152758,
+      "bytes": 111228,
       "path": "eightly/professional/desktop/dark/dashboard.webp"
     },
     {
@@ -724,10 +754,12 @@
       "screen": "environments",
       "formFactor": "desktop",
       "theme": "dark",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "pro-dev.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 76466,
+      "bytes": 52502,
       "path": "eightly/professional/desktop/dark/environments.webp"
     },
     {
@@ -735,10 +767,12 @@
       "screen": "file-sharing",
       "formFactor": "desktop",
       "theme": "dark",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "pro-dev.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 150940,
+      "bytes": 119372,
       "path": "eightly/professional/desktop/dark/file-sharing.webp"
     },
     {
@@ -746,10 +780,12 @@
       "screen": "monitoring",
       "formFactor": "desktop",
       "theme": "dark",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "pro-dev.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 130524,
+      "bytes": 108030,
       "path": "eightly/professional/desktop/dark/monitoring.webp"
     },
     {
@@ -757,10 +793,12 @@
       "screen": "network",
       "formFactor": "desktop",
       "theme": "dark",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "pro-dev.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 115482,
+      "bytes": 121862,
       "path": "eightly/professional/desktop/dark/network.webp"
     },
     {
@@ -768,10 +806,12 @@
       "screen": "settings",
       "formFactor": "desktop",
       "theme": "dark",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "pro-dev.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 125488,
+      "bytes": 89714,
       "path": "eightly/professional/desktop/dark/settings.webp"
     },
     {
@@ -779,10 +819,12 @@
       "screen": "storage",
       "formFactor": "desktop",
       "theme": "dark",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "pro-dev.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 163208,
+      "bytes": 145654,
       "path": "eightly/professional/desktop/dark/storage.webp"
     },
     {
@@ -790,10 +832,12 @@
       "screen": "app-store",
       "formFactor": "desktop",
       "theme": "light",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "pro-dev.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 178650,
+      "bytes": 123766,
       "path": "eightly/professional/desktop/light/app-store.webp"
     },
     {
@@ -801,10 +845,12 @@
       "screen": "containers",
       "formFactor": "desktop",
       "theme": "light",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "pro-dev.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 125432,
+      "bytes": 127570,
       "path": "eightly/professional/desktop/light/containers.webp"
     },
     {
@@ -812,10 +858,12 @@
       "screen": "dashboard",
       "formFactor": "desktop",
       "theme": "light",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "pro-dev.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 154640,
+      "bytes": 107650,
       "path": "eightly/professional/desktop/light/dashboard.webp"
     },
     {
@@ -823,10 +871,12 @@
       "screen": "environments",
       "formFactor": "desktop",
       "theme": "light",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "pro-dev.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 91456,
+      "bytes": 52894,
       "path": "eightly/professional/desktop/light/environments.webp"
     },
     {
@@ -834,10 +884,12 @@
       "screen": "file-sharing",
       "formFactor": "desktop",
       "theme": "light",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "pro-dev.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 157242,
+      "bytes": 116214,
       "path": "eightly/professional/desktop/light/file-sharing.webp"
     },
     {
@@ -845,10 +897,12 @@
       "screen": "monitoring",
       "formFactor": "desktop",
       "theme": "light",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "pro-dev.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 141548,
+      "bytes": 114740,
       "path": "eightly/professional/desktop/light/monitoring.webp"
     },
     {
@@ -856,10 +910,12 @@
       "screen": "network",
       "formFactor": "desktop",
       "theme": "light",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "pro-dev.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 122972,
+      "bytes": 123000,
       "path": "eightly/professional/desktop/light/network.webp"
     },
     {
@@ -867,10 +923,12 @@
       "screen": "settings",
       "formFactor": "desktop",
       "theme": "light",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "pro-dev.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 133876,
+      "bytes": 89436,
       "path": "eightly/professional/desktop/light/settings.webp"
     },
     {
@@ -878,10 +936,12 @@
       "screen": "storage",
       "formFactor": "desktop",
       "theme": "light",
-      "captureDate": "2026-06-26",
+      "sourceEnv": "pro-dev.eight.ly",
+      "captureDate": "2026-06-27",
+      "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 176660,
+      "bytes": 146288,
       "path": "eightly/professional/desktop/light/storage.webp"
     },
     {
