@@ -886,6 +886,28 @@
     },
     {
       "product": "homelabarr/ce",
+      "screen": "ai-ml",
+      "formFactor": "desktop",
+      "theme": "dark",
+      "captureDate": "2026-06-26",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 102080,
+      "path": "homelabarr/ce/desktop/dark/ai-ml.webp"
+    },
+    {
+      "product": "homelabarr/ce",
+      "screen": "backup-storage",
+      "formFactor": "desktop",
+      "theme": "dark",
+      "captureDate": "2026-06-26",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 79748,
+      "path": "homelabarr/ce/desktop/dark/backup-storage.webp"
+    },
+    {
+      "product": "homelabarr/ce",
       "screen": "dashboard",
       "formFactor": "desktop",
       "theme": "dark",
@@ -897,6 +919,116 @@
     },
     {
       "product": "homelabarr/ce",
+      "screen": "deployed-apps",
+      "formFactor": "desktop",
+      "theme": "dark",
+      "captureDate": "2026-06-26",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 74378,
+      "path": "homelabarr/ce/desktop/dark/deployed-apps.webp"
+    },
+    {
+      "product": "homelabarr/ce",
+      "screen": "downloads",
+      "formFactor": "desktop",
+      "theme": "dark",
+      "captureDate": "2026-06-26",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 94852,
+      "path": "homelabarr/ce/desktop/dark/downloads.webp"
+    },
+    {
+      "product": "homelabarr/ce",
+      "screen": "media",
+      "formFactor": "desktop",
+      "theme": "dark",
+      "captureDate": "2026-06-26",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 100120,
+      "path": "homelabarr/ce/desktop/dark/media.webp"
+    },
+    {
+      "product": "homelabarr/ce",
+      "screen": "monitoring",
+      "formFactor": "desktop",
+      "theme": "dark",
+      "captureDate": "2026-06-26",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 98850,
+      "path": "homelabarr/ce/desktop/dark/monitoring.webp"
+    },
+    {
+      "product": "homelabarr/ce",
+      "screen": "port-manager",
+      "formFactor": "desktop",
+      "theme": "dark",
+      "captureDate": "2026-06-26",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 42574,
+      "path": "homelabarr/ce/desktop/dark/port-manager.webp"
+    },
+    {
+      "product": "homelabarr/ce",
+      "screen": "starred",
+      "formFactor": "desktop",
+      "theme": "dark",
+      "captureDate": "2026-06-26",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 57638,
+      "path": "homelabarr/ce/desktop/dark/starred.webp"
+    },
+    {
+      "product": "homelabarr/ce",
+      "screen": "system-utilities",
+      "formFactor": "desktop",
+      "theme": "dark",
+      "captureDate": "2026-06-26",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 97006,
+      "path": "homelabarr/ce/desktop/dark/system-utilities.webp"
+    },
+    {
+      "product": "homelabarr/ce",
+      "screen": "virtual-desktops",
+      "formFactor": "desktop",
+      "theme": "dark",
+      "captureDate": "2026-06-26",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 97578,
+      "path": "homelabarr/ce/desktop/dark/virtual-desktops.webp"
+    },
+    {
+      "product": "homelabarr/ce",
+      "screen": "ai-ml",
+      "formFactor": "desktop",
+      "theme": "light",
+      "captureDate": "2026-06-26",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 99600,
+      "path": "homelabarr/ce/desktop/light/ai-ml.webp"
+    },
+    {
+      "product": "homelabarr/ce",
+      "screen": "backup-storage",
+      "formFactor": "desktop",
+      "theme": "light",
+      "captureDate": "2026-06-26",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 78126,
+      "path": "homelabarr/ce/desktop/light/backup-storage.webp"
+    },
+    {
+      "product": "homelabarr/ce",
       "screen": "dashboard",
       "formFactor": "desktop",
       "theme": "light",
@@ -905,6 +1037,94 @@
       "height": 1600,
       "bytes": 89944,
       "path": "homelabarr/ce/desktop/light/dashboard.webp"
+    },
+    {
+      "product": "homelabarr/ce",
+      "screen": "deployed-apps",
+      "formFactor": "desktop",
+      "theme": "light",
+      "captureDate": "2026-06-26",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 73468,
+      "path": "homelabarr/ce/desktop/light/deployed-apps.webp"
+    },
+    {
+      "product": "homelabarr/ce",
+      "screen": "downloads",
+      "formFactor": "desktop",
+      "theme": "light",
+      "captureDate": "2026-06-26",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 93182,
+      "path": "homelabarr/ce/desktop/light/downloads.webp"
+    },
+    {
+      "product": "homelabarr/ce",
+      "screen": "media",
+      "formFactor": "desktop",
+      "theme": "light",
+      "captureDate": "2026-06-26",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 98748,
+      "path": "homelabarr/ce/desktop/light/media.webp"
+    },
+    {
+      "product": "homelabarr/ce",
+      "screen": "monitoring",
+      "formFactor": "desktop",
+      "theme": "light",
+      "captureDate": "2026-06-26",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 97540,
+      "path": "homelabarr/ce/desktop/light/monitoring.webp"
+    },
+    {
+      "product": "homelabarr/ce",
+      "screen": "port-manager",
+      "formFactor": "desktop",
+      "theme": "light",
+      "captureDate": "2026-06-26",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 49420,
+      "path": "homelabarr/ce/desktop/light/port-manager.webp"
+    },
+    {
+      "product": "homelabarr/ce",
+      "screen": "starred",
+      "formFactor": "desktop",
+      "theme": "light",
+      "captureDate": "2026-06-26",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 56666,
+      "path": "homelabarr/ce/desktop/light/starred.webp"
+    },
+    {
+      "product": "homelabarr/ce",
+      "screen": "system-utilities",
+      "formFactor": "desktop",
+      "theme": "light",
+      "captureDate": "2026-06-26",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 94960,
+      "path": "homelabarr/ce/desktop/light/system-utilities.webp"
+    },
+    {
+      "product": "homelabarr/ce",
+      "screen": "virtual-desktops",
+      "formFactor": "desktop",
+      "theme": "light",
+      "captureDate": "2026-06-26",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 96178,
+      "path": "homelabarr/ce/desktop/light/virtual-desktops.webp"
     }
   ]
 }
