@@ -284,6 +284,32 @@
     },
     {
       "product": "eightly/agent",
+      "screen": "agent-detail",
+      "formFactor": "desktop",
+      "theme": "dark",
+      "sourceEnv": "os-dev.eight.ly",
+      "captureDate": "2026-08-10",
+      "viewport": "1280x800@2x",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 153252,
+      "path": "eightly/agent/desktop/dark/agent-detail.webp"
+    },
+    {
+      "product": "eightly/agent",
+      "screen": "agents-list",
+      "formFactor": "desktop",
+      "theme": "dark",
+      "sourceEnv": "os-dev.eight.ly",
+      "captureDate": "2026-08-10",
+      "viewport": "1280x800@2x",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 49270,
+      "path": "eightly/agent/desktop/dark/agents-list.webp"
+    },
+    {
+      "product": "eightly/agent",
       "screen": "dashboard",
       "formFactor": "desktop",
       "theme": "dark",
@@ -292,6 +318,32 @@
       "height": 1600,
       "bytes": 49134,
       "path": "eightly/agent/desktop/dark/dashboard.webp"
+    },
+    {
+      "product": "eightly/agent",
+      "screen": "agent-detail",
+      "formFactor": "desktop",
+      "theme": "light",
+      "sourceEnv": "os-dev.eight.ly",
+      "captureDate": "2026-08-10",
+      "viewport": "1280x800@2x",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 153154,
+      "path": "eightly/agent/desktop/light/agent-detail.webp"
+    },
+    {
+      "product": "eightly/agent",
+      "screen": "agents-list",
+      "formFactor": "desktop",
+      "theme": "light",
+      "sourceEnv": "os-dev.eight.ly",
+      "captureDate": "2026-08-10",
+      "viewport": "1280x800@2x",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 49176,
+      "path": "eightly/agent/desktop/light/agents-list.webp"
     },
     {
       "product": "eightly/agent",
@@ -1799,6 +1851,32 @@
     },
     {
       "product": "eightly/nova-ai",
+      "screen": "nova-conversation",
+      "formFactor": "desktop",
+      "theme": "dark",
+      "sourceEnv": "os-dev.eight.ly",
+      "captureDate": "2026-08-10",
+      "viewport": "1280x800@2x",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 65326,
+      "path": "eightly/nova-ai/desktop/dark/nova-conversation.webp"
+    },
+    {
+      "product": "eightly/nova-ai",
+      "screen": "nova-home",
+      "formFactor": "desktop",
+      "theme": "dark",
+      "sourceEnv": "os-dev.eight.ly",
+      "captureDate": "2026-08-10",
+      "viewport": "1280x800@2x",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 82206,
+      "path": "eightly/nova-ai/desktop/dark/nova-home.webp"
+    },
+    {
+      "product": "eightly/nova-ai",
       "screen": "chat",
       "formFactor": "desktop",
       "theme": "light",
@@ -1807,6 +1885,32 @@
       "height": 1600,
       "bytes": 83440,
       "path": "eightly/nova-ai/desktop/light/chat.webp"
+    },
+    {
+      "product": "eightly/nova-ai",
+      "screen": "nova-conversation",
+      "formFactor": "desktop",
+      "theme": "light",
+      "sourceEnv": "os-dev.eight.ly",
+      "captureDate": "2026-08-10",
+      "viewport": "1280x800@2x",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 74394,
+      "path": "eightly/nova-ai/desktop/light/nova-conversation.webp"
+    },
+    {
+      "product": "eightly/nova-ai",
+      "screen": "nova-home",
+      "formFactor": "desktop",
+      "theme": "light",
+      "sourceEnv": "os-dev.eight.ly",
+      "captureDate": "2026-08-10",
+      "viewport": "1280x800@2x",
+      "width": 2560,
+      "height": 1600,
+      "bytes": 83068,
+      "path": "eightly/nova-ai/desktop/light/nova-home.webp"
     },
     {
       "product": "eightly/os",
