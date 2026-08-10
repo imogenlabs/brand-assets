@@ -1212,5 +1212,14 @@
       "bytes": 96178,
       "path": "homelabarr/ce/desktop/light/virtual-desktops.webp"
     }
+  ],
+  "skipped": [
+    {
+      "product": "eightly-stick",
+      "status": "skipped",
+      "reason": "Stick UIs on amd-beast are down (host under crash investigation); captures deferred until the host is stable.",
+      "decidedAt": "2026-08-10",
+      "doc": "eightly-stick/CAPTURE-DECISION.md"
+    }
   ]
 }
