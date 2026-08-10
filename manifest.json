@@ -1489,7 +1489,7 @@
       "captureDate": "2026-08-10",
       "width": 1200,
       "height": 750,
-      "bytes": 7608,
+      "bytes": 7659,
       "path": "agent-templates/diagram/dark/deploy-flow.svg"
     },
     {
@@ -1501,7 +1501,7 @@
       "captureDate": "2026-08-10",
       "width": 1200,
       "height": 750,
-      "bytes": 7608,
+      "bytes": 7659,
       "path": "agent-templates/diagram/light/deploy-flow.svg"
     },
     {
@@ -1537,7 +1537,7 @@
       "captureDate": "2026-08-10",
       "width": 1200,
       "height": 750,
-      "bytes": 6087,
+      "bytes": 5882,
       "path": "imogen-playbook/diagram/dark/chapters.svg"
     },
     {
@@ -1549,7 +1549,7 @@
       "captureDate": "2026-08-10",
       "width": 1200,
       "height": 750,
-      "bytes": 6087,
+      "bytes": 5882,
       "path": "imogen-playbook/diagram/light/chapters.svg"
     },
     {
