@@ -128,6 +128,30 @@
     },
     {
       "product": "agent-templates",
+      "screen": "deploy-flow",
+      "formFactor": "diagram",
+      "theme": "dark",
+      "sourceEnv": "authored",
+      "captureDate": "2026-08-10",
+      "width": 1200,
+      "height": 750,
+      "bytes": 7659,
+      "path": "agent-templates/diagram/dark/deploy-flow.svg"
+    },
+    {
+      "product": "agent-templates",
+      "screen": "deploy-flow",
+      "formFactor": "diagram",
+      "theme": "light",
+      "sourceEnv": "authored",
+      "captureDate": "2026-08-10",
+      "width": 1200,
+      "height": 750,
+      "bytes": 7659,
+      "path": "agent-templates/diagram/light/deploy-flow.svg"
+    },
+    {
+      "product": "agent-templates",
       "screen": "checkout",
       "formFactor": "mobile",
       "theme": "dark",
@@ -283,6 +307,30 @@
       "path": "agent-templates/tablet/light/template-homelab-monitor.webp"
     },
     {
+      "product": "cf-companion",
+      "screen": "dns-workflow",
+      "formFactor": "diagram",
+      "theme": "dark",
+      "sourceEnv": "authored",
+      "captureDate": "2026-08-10",
+      "width": 1200,
+      "height": 750,
+      "bytes": 5544,
+      "path": "cf-companion/diagram/dark/dns-workflow.svg"
+    },
+    {
+      "product": "cf-companion",
+      "screen": "dns-workflow",
+      "formFactor": "diagram",
+      "theme": "light",
+      "sourceEnv": "authored",
+      "captureDate": "2026-08-10",
+      "width": 1200,
+      "height": 750,
+      "bytes": 5544,
+      "path": "cf-companion/diagram/light/dns-workflow.svg"
+    },
+    {
       "product": "eightly/agent",
       "screen": "agent-detail",
       "formFactor": "desktop",
@@ -431,7 +479,7 @@
       "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 92616,
+      "bytes": 107574,
       "path": "eightly/backup-server/desktop/dark/dashboard.webp"
     },
     {
@@ -509,7 +557,7 @@
       "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 100088,
+      "bytes": 92438,
       "path": "eightly/backup-server/desktop/dark/restore.webp"
     },
     {
@@ -652,7 +700,7 @@
       "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 91032,
+      "bytes": 107234,
       "path": "eightly/backup-server/desktop/light/dashboard.webp"
     },
     {
@@ -730,7 +778,7 @@
       "viewport": "1280x800@2x",
       "width": 2560,
       "height": 1600,
-      "bytes": 99424,
+      "bytes": 92028,
       "path": "eightly/backup-server/desktop/light/restore.webp"
     },
     {
@@ -873,7 +921,7 @@
       "viewport": "393x852@2x",
       "width": 786,
       "height": 1704,
-      "bytes": 68816,
+      "bytes": 68560,
       "path": "eightly/backup-server/mobile/dark/dashboard.webp"
     },
     {
@@ -951,7 +999,7 @@
       "viewport": "393x852@2x",
       "width": 786,
       "height": 1704,
-      "bytes": 52038,
+      "bytes": 51900,
       "path": "eightly/backup-server/mobile/dark/restore.webp"
     },
     {
@@ -1094,7 +1142,7 @@
       "viewport": "393x852@2x",
       "width": 786,
       "height": 1704,
-      "bytes": 69526,
+      "bytes": 69802,
       "path": "eightly/backup-server/mobile/light/dashboard.webp"
     },
     {
@@ -1172,7 +1220,7 @@
       "viewport": "393x852@2x",
       "width": 786,
       "height": 1704,
-      "bytes": 52484,
+      "bytes": 52524,
       "path": "eightly/backup-server/mobile/light/restore.webp"
     },
     {
@@ -1315,7 +1363,7 @@
       "viewport": "834x1112@2x",
       "width": 1668,
       "height": 2224,
-      "bytes": 94508,
+      "bytes": 103450,
       "path": "eightly/backup-server/tablet/dark/dashboard.webp"
     },
     {
@@ -1393,7 +1441,7 @@
       "viewport": "834x1112@2x",
       "width": 1668,
       "height": 2224,
-      "bytes": 99364,
+      "bytes": 91674,
       "path": "eightly/backup-server/tablet/dark/restore.webp"
     },
     {
@@ -1536,7 +1584,7 @@
       "viewport": "834x1112@2x",
       "width": 1668,
       "height": 2224,
-      "bytes": 94368,
+      "bytes": 103406,
       "path": "eightly/backup-server/tablet/light/dashboard.webp"
     },
     {
@@ -1614,7 +1662,7 @@
       "viewport": "834x1112@2x",
       "width": 1668,
       "height": 2224,
-      "bytes": 99622,
+      "bytes": 90072,
       "path": "eightly/backup-server/tablet/light/restore.webp"
     },
     {
@@ -2591,6 +2639,54 @@
       "path": "homelabarr/ce/desktop/light/virtual-desktops.webp"
     },
     {
+      "product": "imogen-playbook",
+      "screen": "chapters",
+      "formFactor": "diagram",
+      "theme": "dark",
+      "sourceEnv": "authored",
+      "captureDate": "2026-08-10",
+      "width": 1200,
+      "height": 750,
+      "bytes": 5882,
+      "path": "imogen-playbook/diagram/dark/chapters.svg"
+    },
+    {
+      "product": "imogen-playbook",
+      "screen": "chapters",
+      "formFactor": "diagram",
+      "theme": "light",
+      "sourceEnv": "authored",
+      "captureDate": "2026-08-10",
+      "width": 1200,
+      "height": 750,
+      "bytes": 5882,
+      "path": "imogen-playbook/diagram/light/chapters.svg"
+    },
+    {
+      "product": "ipac",
+      "screen": "personality-as-code",
+      "formFactor": "diagram",
+      "theme": "dark",
+      "sourceEnv": "authored",
+      "captureDate": "2026-08-10",
+      "width": 1200,
+      "height": 750,
+      "bytes": 6263,
+      "path": "ipac/diagram/dark/personality-as-code.svg"
+    },
+    {
+      "product": "ipac",
+      "screen": "personality-as-code",
+      "formFactor": "diagram",
+      "theme": "light",
+      "sourceEnv": "authored",
+      "captureDate": "2026-08-10",
+      "width": 1200,
+      "height": 750,
+      "bytes": 6263,
+      "path": "ipac/diagram/light/personality-as-code.svg"
+    },
+    {
       "product": "neurohelper",
       "screen": "history",
       "formFactor": "desktop",
@@ -2667,102 +2763,6 @@
       "height": 1600,
       "bytes": 72784,
       "path": "neurohelper/desktop/light/session.webp"
-    },
-    {
-      "product": "agent-templates",
-      "screen": "deploy-flow",
-      "formFactor": "diagram",
-      "theme": "dark",
-      "sourceEnv": "authored",
-      "captureDate": "2026-08-10",
-      "width": 1200,
-      "height": 750,
-      "bytes": 7659,
-      "path": "agent-templates/diagram/dark/deploy-flow.svg"
-    },
-    {
-      "product": "agent-templates",
-      "screen": "deploy-flow",
-      "formFactor": "diagram",
-      "theme": "light",
-      "sourceEnv": "authored",
-      "captureDate": "2026-08-10",
-      "width": 1200,
-      "height": 750,
-      "bytes": 7659,
-      "path": "agent-templates/diagram/light/deploy-flow.svg"
-    },
-    {
-      "product": "cf-companion",
-      "screen": "dns-workflow",
-      "formFactor": "diagram",
-      "theme": "dark",
-      "sourceEnv": "authored",
-      "captureDate": "2026-08-10",
-      "width": 1200,
-      "height": 750,
-      "bytes": 5544,
-      "path": "cf-companion/diagram/dark/dns-workflow.svg"
-    },
-    {
-      "product": "cf-companion",
-      "screen": "dns-workflow",
-      "formFactor": "diagram",
-      "theme": "light",
-      "sourceEnv": "authored",
-      "captureDate": "2026-08-10",
-      "width": 1200,
-      "height": 750,
-      "bytes": 5544,
-      "path": "cf-companion/diagram/light/dns-workflow.svg"
-    },
-    {
-      "product": "imogen-playbook",
-      "screen": "chapters",
-      "formFactor": "diagram",
-      "theme": "dark",
-      "sourceEnv": "authored",
-      "captureDate": "2026-08-10",
-      "width": 1200,
-      "height": 750,
-      "bytes": 5882,
-      "path": "imogen-playbook/diagram/dark/chapters.svg"
-    },
-    {
-      "product": "imogen-playbook",
-      "screen": "chapters",
-      "formFactor": "diagram",
-      "theme": "light",
-      "sourceEnv": "authored",
-      "captureDate": "2026-08-10",
-      "width": 1200,
-      "height": 750,
-      "bytes": 5882,
-      "path": "imogen-playbook/diagram/light/chapters.svg"
-    },
-    {
-      "product": "ipac",
-      "screen": "personality-as-code",
-      "formFactor": "diagram",
-      "theme": "dark",
-      "sourceEnv": "authored",
-      "captureDate": "2026-08-10",
-      "width": 1200,
-      "height": 750,
-      "bytes": 6263,
-      "path": "ipac/diagram/dark/personality-as-code.svg"
-    },
-    {
-      "product": "ipac",
-      "screen": "personality-as-code",
-      "formFactor": "diagram",
-      "theme": "light",
-      "sourceEnv": "authored",
-      "captureDate": "2026-08-10",
-      "width": 1200,
-      "height": 750,
-      "bytes": 6263,
-      "path": "ipac/diagram/light/personality-as-code.svg"
     },
     {
       "product": "operator-kit",
