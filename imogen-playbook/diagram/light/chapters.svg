@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" font-family="Inter, system-ui, sans-serif" role="img" aria-labelledby="dt">
+<title id="dt">The Imogen Playbook: nine topics across eleven chapters</title>
+<rect width="1200" height="750" fill="#ffffff"/>
+<text x="60" y="64" font-size="12" fill="#71717a" font-weight="600" letter-spacing="1.5">THE IMOGEN PLAYBOOK &#183; $149 &#183; LIFETIME UPDATES</text>
+<text x="60" y="102" font-size="28" fill="#09090b" font-weight="700">The Imogen Playbook</text>
+<text x="60" y="130" font-size="14" fill="#71717a" >The complete guide to building and running an AI-native business as a solo founder.</text>
+<rect x="60" y="195" width="346" height="132" rx="8" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+<rect x="78" y="213" width="34" height="24" rx="6" fill="#f4f4f5" stroke="#e4e4e7"/>
+<text x="95.0" y="229.5" font-size="12.5" fill="#09090b" font-weight="700" text-anchor="middle">01</text>
+<text x="124" y="231" font-size="15" fill="#09090b" font-weight="700">OpenClaw setup</text>
+<text x="78" y="263" font-size="12" fill="#71717a" >Install, configure, and run</text>
+<text x="78" y="281" font-size="12" fill="#71717a" >your first agent.</text>
+<rect x="427" y="195" width="346" height="132" rx="8" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+<rect x="445" y="213" width="34" height="24" rx="6" fill="#f4f4f5" stroke="#e4e4e7"/>
+<text x="462.0" y="229.5" font-size="12.5" fill="#09090b" font-weight="700" text-anchor="middle">02</text>
+<text x="491" y="231" font-size="15" fill="#09090b" font-weight="700">Personality design</text>
+<text x="445" y="263" font-size="12" fill="#71717a" >Identity files, voice,</text>
+<text x="445" y="281" font-size="12" fill="#71717a" >decision-making patterns.</text>
+<rect x="794" y="195" width="346" height="132" rx="8" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+<rect x="812" y="213" width="34" height="24" rx="6" fill="#f4f4f5" stroke="#e4e4e7"/>
+<text x="829.0" y="229.5" font-size="12.5" fill="#09090b" font-weight="700" text-anchor="middle">03</text>
+<text x="858" y="231" font-size="15" fill="#09090b" font-weight="700">Multi-channel messaging</text>
+<text x="812" y="263" font-size="12" fill="#71717a" >Telegram, Discord, iMessage</text>
+<text x="812" y="281" font-size="12" fill="#71717a" >— one agent, every channel.</text>
+<rect x="60" y="345" width="346" height="132" rx="8" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+<rect x="78" y="363" width="34" height="24" rx="6" fill="#f4f4f5" stroke="#e4e4e7"/>
+<text x="95.0" y="379.5" font-size="12.5" fill="#09090b" font-weight="700" text-anchor="middle">04</text>
+<text x="124" y="381" font-size="15" fill="#09090b" font-weight="700">Cron automation</text>
+<text x="78" y="413" font-size="12" fill="#71717a" >Scheduled tasks, monitoring,</text>
+<text x="78" y="431" font-size="12" fill="#71717a" >reporting.</text>
+<rect x="427" y="345" width="346" height="132" rx="8" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+<rect x="445" y="363" width="34" height="24" rx="6" fill="#f4f4f5" stroke="#e4e4e7"/>
+<text x="462.0" y="379.5" font-size="12.5" fill="#09090b" font-weight="700" text-anchor="middle">05</text>
+<text x="491" y="381" font-size="15" fill="#09090b" font-weight="700">Agent dispatch</text>
+<text x="445" y="413" font-size="12" fill="#71717a" >Multi-agent coordination</text>
+<text x="445" y="431" font-size="12" fill="#71717a" >without stepping on each other.</text>
+<rect x="794" y="345" width="346" height="132" rx="8" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+<rect x="812" y="363" width="34" height="24" rx="6" fill="#f4f4f5" stroke="#e4e4e7"/>
+<text x="829.0" y="379.5" font-size="12.5" fill="#09090b" font-weight="700" text-anchor="middle">06</text>
+<text x="858" y="381" font-size="15" fill="#09090b" font-weight="700">Memory systems</text>
+<text x="812" y="413" font-size="12" fill="#71717a" >Short-term, long-term, episodic</text>
+<text x="812" y="431" font-size="12" fill="#71717a" >— and when to use each.</text>
+<rect x="60" y="495" width="346" height="132" rx="8" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+<rect x="78" y="513" width="34" height="24" rx="6" fill="#f4f4f5" stroke="#e4e4e7"/>
+<text x="95.0" y="529.5" font-size="12.5" fill="#09090b" font-weight="700" text-anchor="middle">07</text>
+<text x="124" y="531" font-size="15" fill="#09090b" font-weight="700">Monitoring</text>
+<text x="78" y="563" font-size="12" fill="#71717a" >Health checks, drift detection,</text>
+<text x="78" y="581" font-size="12" fill="#71717a" >alerts.</text>
+<rect x="427" y="495" width="346" height="132" rx="8" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+<rect x="445" y="513" width="34" height="24" rx="6" fill="#f4f4f5" stroke="#e4e4e7"/>
+<text x="462.0" y="529.5" font-size="12.5" fill="#09090b" font-weight="700" text-anchor="middle">08</text>
+<text x="491" y="531" font-size="15" fill="#09090b" font-weight="700">Security</text>
+<text x="445" y="563" font-size="12" fill="#71717a" >Secrets management, sandboxing,</text>
+<text x="445" y="581" font-size="12" fill="#71717a" >audit trails.</text>
+<rect x="794" y="495" width="346" height="132" rx="8" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+<rect x="812" y="513" width="34" height="24" rx="6" fill="#f4f4f5" stroke="#e4e4e7"/>
+<text x="829.0" y="529.5" font-size="12.5" fill="#09090b" font-weight="700" text-anchor="middle">09</text>
+<text x="858" y="531" font-size="15" fill="#09090b" font-weight="700">Production deployment</text>
+<text x="812" y="563" font-size="12" fill="#71717a" >How to actually ship and run</text>
+<text x="812" y="581" font-size="12" fill="#71717a" >this in production.</text>
+<text x="60" y="668" font-size="13" fill="#71717a" >9 topics across 11 chapters &#183; updated as the methodology evolves &#183; based on a real production AI operator running 24/7</text>
+</svg>

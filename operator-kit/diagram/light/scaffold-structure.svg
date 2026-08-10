@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" font-family="Inter, system-ui, sans-serif" role="img" aria-labelledby="dt">
+<title id="dt">Operator Kit: what one command scaffolds, and where it plugs in</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#2563eb"/></marker>
+<marker id="arrm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#71717a"/></marker>
+</defs>
+<rect width="1200" height="750" fill="#ffffff"/>
+<text x="60" y="64" font-size="12" fill="#71717a" font-weight="600" letter-spacing="1.5">OPERATOR KIT &#183; OPEN SOURCE (MIT)</text>
+<text x="60" y="102" font-size="28" fill="#09090b" font-weight="700">One command scaffolds a full AI operator</text>
+<text x="60" y="130" font-size="14" fill="#71717a" >Identity, memory, instincts, cron jobs, safety rails, multi-agent architecture.</text>
+<rect x="60" y="282" width="350" height="150" rx="8" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+<text x="84" y="340" font-size="14" font-family="'JetBrains Mono', ui-monospace, monospace" fill="#09090b"><tspan fill="#2563eb">$</tspan> openclaw plugins install</text>
+<text x="100" y="364" font-size="14" fill="#09090b" font-family="'JetBrains Mono', ui-monospace, monospace">@imogenlabs/operator-kit</text>
+<text x="84" y="406" font-size="12" fill="#71717a" >One command. Requires OpenClaw.</text>
+<line x1="418" y1="357" x2="472" y2="357" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+<text x="445" y="342" font-size="12" fill="#71717a" text-anchor="middle">scaffolds</text>
+<rect x="480" y="130" width="660" height="455" rx="8" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+<text x="504" y="166" font-size="16" fill="#09090b" font-weight="700">The scaffold</text>
+<rect x="500" y="188" width="620" height="64" rx="8" fill="#ffffff" stroke="#e4e4e7" stroke-width="1"/>
+<text x="516" y="215" font-size="13" fill="#09090b" font-weight="700" font-family="'JetBrains Mono', ui-monospace, monospace">SOUL.md &#183; IDENTITY.md &#183; voice guidelines</text>
+<text x="516" y="236" font-size="12" fill="#71717a" >Identity &amp; personality — sounds like a person, not a chatbot</text>
+<rect x="500" y="266" width="620" height="64" rx="8" fill="#ffffff" stroke="#e4e4e7" stroke-width="1"/>
+<text x="516" y="293" font-size="13" fill="#09090b" font-weight="700" font-family="'JetBrains Mono', ui-monospace, monospace">memory/{short-term, long-term, episodic}/</text>
+<text x="516" y="314" font-size="12" fill="#71717a" >Memory directories with retention policies</text>
+<rect x="500" y="344" width="620" height="64" rx="8" fill="#ffffff" stroke="#e4e4e7" stroke-width="1"/>
+<text x="516" y="371" font-size="13" fill="#09090b" font-weight="700" font-family="'JetBrains Mono', ui-monospace, monospace">instincts/*.yaml</text>
+<text x="516" y="392" font-size="12" fill="#71717a" >Safety rails that keep the agent from doing damage — production-tested</text>
+<rect x="500" y="422" width="620" height="64" rx="8" fill="#ffffff" stroke="#e4e4e7" stroke-width="1"/>
+<text x="516" y="449" font-size="13" fill="#09090b" font-weight="700" font-family="'JetBrains Mono', ui-monospace, monospace">cron/</text>
+<text x="516" y="470" font-size="12" fill="#71717a" >Job templates for monitoring, reporting, and maintenance</text>
+<rect x="500" y="500" width="620" height="64" rx="8" fill="#ffffff" stroke="#e4e4e7" stroke-width="1"/>
+<text x="516" y="527" font-size="13" fill="#09090b" font-weight="700" font-family="'JetBrains Mono', ui-monospace, monospace">agents/{dispatcher, worker, specialist}/</text>
+<text x="516" y="548" font-size="12" fill="#71717a" >Multi-agent architecture that coordinates without collisions</text>
+<rect x="60" y="620" width="530" height="84" rx="8" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+<text x="84" y="650" font-size="14" fill="#09090b" font-weight="700">Runs on OpenClaw</text>
+<text x="84" y="672" font-size="12" fill="#71717a" >Installs as a plugin into the OpenClaw agent runtime.</text>
+<rect x="610" y="620" width="530" height="84" rx="8" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
+<text x="634" y="646" font-size="14" fill="#09090b" font-weight="700">Extracted from Imogen</text>
+<text x="634" y="668" font-size="12" fill="#71717a" >The working config of a production operator managing 14 products —</text>
+<text x="634" y="684" font-size="12" fill="#71717a" >not an idealized abstraction.</text>
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" font-family="Inter, system-ui, sans-serif" role="img" aria-labelledby="dt">
+<title id="dt">IPAC: encoding an operator's knowledge, voice, and decisions into version-controlled files agents can load</title>
+<defs>
+<marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#2563eb"/></marker>
+<marker id="arrm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#a1a1aa"/></marker>
+</defs>
+<rect width="1200" height="750" fill="#09090b"/>
+<text x="60" y="64" font-size="12" fill="#a1a1aa" font-weight="600" letter-spacing="1.5">IPAC &#183; CC BY-SA 4.0</text>
+<text x="60" y="102" font-size="28" fill="#fafafa" font-weight="700">Integrated Personality as Code</text>
+<text x="60" y="130" font-size="14" fill="#a1a1aa" >Infrastructure as Code made servers reproducible. IPAC does the same for the person running them.</text>
+<rect x="60" y="175" width="310" height="400" rx="8" fill="#18181b" stroke="#27272a" stroke-width="1"/>
+<text x="84" y="211" font-size="16" fill="#fafafa" font-weight="700">In the operator&#8217;s head</text>
+<text x="84" y="255" font-size="14" fill="#fafafa" font-weight="600">What they know</text>
+<text x="84" y="274" font-size="12" fill="#a1a1aa" >knowledge, hard-won context</text>
+<text x="84" y="319" font-size="14" fill="#fafafa" font-weight="600">How they decide</text>
+<text x="84" y="338" font-size="12" fill="#a1a1aa" >judgment and trade-offs</text>
+<text x="84" y="383" font-size="14" fill="#fafafa" font-weight="600">How they sound</text>
+<text x="84" y="402" font-size="12" fill="#a1a1aa" >voice, tone, phrasing</text>
+<text x="84" y="447" font-size="14" fill="#fafafa" font-weight="600">What they care about</text>
+<text x="84" y="466" font-size="12" fill="#a1a1aa" >values and priorities</text>
+<text x="84" y="531" font-size="12" fill="#a1a1aa" font-style="italic">Locked in one head —</text>
+<text x="84" y="549" font-size="12" fill="#a1a1aa" font-style="italic">an irreplaceable snowflake.</text>
+<rect x="445" y="175" width="310" height="400" rx="8" fill="#18181b" stroke="#2563eb" stroke-width="2"/>
+<text x="469" y="211" font-size="16" fill="#fafafa" font-weight="700">Version-controlled files</text>
+<text x="469" y="247" font-size="12.5" fill="#fafafa" font-weight="700" font-family="'JetBrains Mono', ui-monospace, monospace">SOUL.md</text>
+<text x="469" y="263" font-size="11.5" fill="#a1a1aa" >character and values</text>
+<text x="469" y="292" font-size="12.5" fill="#fafafa" font-weight="700" font-family="'JetBrains Mono', ui-monospace, monospace">IDENTITY.md</text>
+<text x="469" y="308" font-size="11.5" fill="#a1a1aa" >who the agent is</text>
+<text x="469" y="337" font-size="12.5" fill="#fafafa" font-weight="700" font-family="'JetBrains Mono', ui-monospace, monospace">USER.md</text>
+<text x="469" y="353" font-size="11.5" fill="#a1a1aa" >the human&#8217;s context</text>
+<text x="469" y="382" font-size="12.5" fill="#fafafa" font-weight="700" font-family="'JetBrains Mono', ui-monospace, monospace">MEMORY.md &#183; ref-*.md</text>
+<text x="469" y="398" font-size="11.5" fill="#a1a1aa" >curated long-term memory</text>
+<text x="469" y="427" font-size="12.5" fill="#fafafa" font-weight="700" font-family="'JetBrains Mono', ui-monospace, monospace">instincts/*.yaml</text>
+<text x="469" y="443" font-size="11.5" fill="#a1a1aa" >guardrails learned from mistakes</text>
+<text x="469" y="472" font-size="12.5" fill="#fafafa" font-weight="700" font-family="'JetBrains Mono', ui-monospace, monospace">HEARTBEAT.md</text>
+<text x="469" y="488" font-size="11.5" fill="#a1a1aa" >proactive checks on a schedule</text>
+<rect x="465" y="523" width="270" height="34" rx="6" fill="#09090b" stroke="#27272a"/>
+<text x="600.0" y="544.14" font-size="11.5" fill="#a1a1aa" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, monospace">tracked in git — diffable, revertible</text>
+<rect x="830" y="175" width="310" height="400" rx="8" fill="#18181b" stroke="#27272a" stroke-width="1"/>
+<text x="854" y="211" font-size="16" fill="#fafafa" font-weight="700">Any agent, any model</text>
+<text x="854" y="255" font-size="14" fill="#fafafa" font-weight="600">Reproducible</text>
+<text x="854" y="274" font-size="12" fill="#a1a1aa" >same operator across sessions</text>
+<text x="854" y="319" font-size="14" fill="#fafafa" font-weight="600">Portable</text>
+<text x="854" y="338" font-size="12" fill="#a1a1aa" >any capable model can load it</text>
+<text x="854" y="383" font-size="14" fill="#fafafa" font-weight="600">Inspectable</text>
+<text x="854" y="402" font-size="12" fill="#a1a1aa" >read it, diff it, prune it</text>
+<text x="854" y="447" font-size="14" fill="#fafafa" font-weight="600">Durable</text>
+<text x="854" y="466" font-size="12" fill="#a1a1aa" >survives restarts — and naps</text>
+<text x="854" y="531" font-size="12" fill="#a1a1aa" font-style="italic">The founder becomes</text>
+<text x="854" y="549" font-size="12" fill="#a1a1aa" font-style="italic">reproducible infrastructure.</text>
+<line x1="376" y1="375" x2="437" y2="375" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+<text x="407.5" y="360" font-size="12" fill="#a1a1aa" text-anchor="middle">encode</text>
+<line x1="761" y1="375" x2="822" y2="375" stroke="#2563eb" stroke-width="2" marker-end="url(#arr)"/>
+<text x="792.5" y="360" font-size="12" fill="#a1a1aa" text-anchor="middle">load</text>
+<rect x="60" y="625" width="1080" height="72" rx="8" fill="#18181b" stroke="#27272a" stroke-width="1"/>
+<text x="84" y="655" font-size="11" fill="#a1a1aa" font-weight="600" letter-spacing="1.5">THE IaC ANALOGY</text>
+<text x="84" y="679" font-size="12.5" fill="#fafafa" font-family="'JetBrains Mono', ui-monospace, monospace">Terraform state &#8594; MEMORY.md</text>
+<text x="440" y="679" font-size="12.5" fill="#fafafa" font-family="'JetBrains Mono', ui-monospace, monospace">CI/CD pipeline &#8594; instincts/*.yaml</text>
+<text x="790" y="679" font-size="12.5" fill="#fafafa" font-family="'JetBrains Mono', ui-monospace, monospace">Drift detection &#8594; memory maintenance</text>
+</svg>
