@@ -21,9 +21,18 @@
       "format": "uri",
       "description": "jsDelivr base URL (without ref or path). Consumers append @<ref>/<path>."
     },
+    "generated": {
+      "type": "string",
+      "description": "Date of the last manifest regeneration (YYYY-MM-DD)."
+    },
     "assets": {
       "type": "array",
       "items": { "$ref": "#/$defs/asset" }
+    },
+    "skipped": {
+      "type": "array",
+      "description": "Products intentionally shipping no assets yet, each with the reason and a pointer to its decision record.",
+      "items": { "$ref": "#/$defs/skipped" }
     }
   },
   "$defs": {
@@ -81,6 +90,35 @@
         "path": {
           "type": "string",
           "description": "Repo-relative path to the file, e.g. \"eightly/os/desktop/dark/dashboard.webp\"."
+        }
+      }
+    },
+    "skipped": {
+      "type": "object",
+      "required": ["product", "status", "reason", "decidedAt", "doc"],
+      "additionalProperties": false,
+      "properties": {
+        "product": {
+          "type": "string",
+          "description": "Product slug, matching the assets convention."
+        },
+        "status": {
+          "type": "string",
+          "enum": ["skipped"],
+          "description": "Always \"skipped\"."
+        },
+        "reason": {
+          "type": "string",
+          "description": "One-sentence human rationale."
+        },
+        "decidedAt": {
+          "type": "string",
+          "format": "date",
+          "description": "Decision date, YYYY-MM-DD."
+        },
+        "doc": {
+          "type": "string",
+          "description": "Repo-relative path to the decision record."
         }
       }
     }
