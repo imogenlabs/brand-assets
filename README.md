@@ -83,3 +83,26 @@ plus an entry's `path` give you the full URL.
 - **No secrets, ever.** This repo is public. Images and the manifest only — never
   commit `.env`, credentials, tokens, source code, or anything sensitive. Captures
   must use demo/dev environments and demo accounts, never real customer data.
+
+## Brand logos
+
+`brand/logos/` holds the Imogen Labs company mark. The letterforms are Archivo
+(SIL Open Font License) instanced at wght 680, sitting exactly on the 0–686 grid
+with Archivo's optical overshoot removed, hand-kerned over nine pairs, and
+**converted to outline paths** — no font ships with the artwork, and the glyphs
+are the same shape on every platform.
+
+| File | Use |
+|---|---|
+| `imogen-labs.svg` | Wordmark, `currentColor`. Inline it and it inherits the surrounding text colour. |
+| `imogen-labs-dark.svg` | Wordmark in `#fafafa`, with clear space, for dark grounds. |
+| `imogen-labs-light.svg` | Wordmark in `#09090b`, with clear space, for light grounds. |
+| `imogen-labs-mark.svg` | The `IL` mark alone, `currentColor`. Cut from the same letterforms as the wordmark. |
+| `imogen-labs-avatar-dark.svg` | `IL` on a `#09090b` tile. This is the LinkedIn/profile avatar. |
+| `imogen-labs-avatar-light.svg` | `IL` on a `#fafafa` tile. |
+
+The two `currentColor` masters take their colour from the page, so they are not
+theme-keyed and carry no `manifest.json` entry. The four themed files do.
+
+Regenerate from source with `assets.py` in the brand working folder; never
+redraw the letterforms by hand.
