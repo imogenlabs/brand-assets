@@ -2,7 +2,7 @@
   "$schema": "./manifest.schema.json",
   "version": 1,
   "cdnBase": "https://cdn.jsdelivr.net/gh/imogenlabs/brand-assets",
-  "generated": "2026-08-30",
+  "generated": "2026-09-03",
   "assets": [
     {
       "product": "agent-templates",
@@ -305,6 +305,54 @@
       "height": 2224,
       "bytes": 130166,
       "path": "agent-templates/tablet/light/template-homelab-monitor.webp"
+    },
+    {
+      "product": "brand",
+      "screen": "avatar",
+      "formFactor": "diagram",
+      "theme": "dark",
+      "sourceEnv": "authored",
+      "captureDate": "2026-08-30",
+      "width": 400,
+      "height": 400,
+      "bytes": 392,
+      "path": "brand/logos/imogen-labs-avatar-dark.svg"
+    },
+    {
+      "product": "brand",
+      "screen": "avatar",
+      "formFactor": "diagram",
+      "theme": "light",
+      "sourceEnv": "authored",
+      "captureDate": "2026-08-30",
+      "width": 400,
+      "height": 400,
+      "bytes": 392,
+      "path": "brand/logos/imogen-labs-avatar-light.svg"
+    },
+    {
+      "product": "brand",
+      "screen": "wordmark",
+      "formFactor": "diagram",
+      "theme": "dark",
+      "sourceEnv": "authored",
+      "captureDate": "2026-08-30",
+      "width": 8814,
+      "height": 1441,
+      "bytes": 13561,
+      "path": "brand/logos/imogen-labs-dark.svg"
+    },
+    {
+      "product": "brand",
+      "screen": "wordmark",
+      "formFactor": "diagram",
+      "theme": "light",
+      "sourceEnv": "authored",
+      "captureDate": "2026-08-30",
+      "width": 8814,
+      "height": 1441,
+      "bytes": 13561,
+      "path": "brand/logos/imogen-labs-light.svg"
     },
     {
       "product": "cf-companion",
@@ -2434,11 +2482,13 @@
       "screen": "deployed-apps",
       "formFactor": "desktop",
       "theme": "dark",
-      "captureDate": "2026-06-26",
+      "captureDate": "2026-09-03",
       "width": 2560,
-      "height": 1600,
-      "bytes": 74378,
-      "path": "homelabarr/ce/desktop/dark/deployed-apps.webp"
+      "height": 1808,
+      "bytes": 95284,
+      "path": "homelabarr/ce/desktop/dark/deployed-apps.webp",
+      "sourceEnv": "ce-demo.homelabarr.com",
+      "viewport": "1308x924@2x"
     },
     {
       "product": "homelabarr/ce",
@@ -2555,11 +2605,13 @@
       "screen": "deployed-apps",
       "formFactor": "desktop",
       "theme": "light",
-      "captureDate": "2026-06-26",
+      "captureDate": "2026-09-03",
       "width": 2560,
-      "height": 1600,
-      "bytes": 73468,
-      "path": "homelabarr/ce/desktop/light/deployed-apps.webp"
+      "height": 1808,
+      "bytes": 88088,
+      "path": "homelabarr/ce/desktop/light/deployed-apps.webp",
+      "sourceEnv": "ce-demo.homelabarr.com",
+      "viewport": "1308x924@2x"
     },
     {
       "product": "homelabarr/ce",
@@ -2787,54 +2839,6 @@
       "height": 750,
       "bytes": 4596,
       "path": "operator-kit/diagram/light/scaffold-structure.svg"
-    },
-    {
-      "product": "brand",
-      "screen": "wordmark",
-      "formFactor": "diagram",
-      "theme": "dark",
-      "sourceEnv": "authored",
-      "captureDate": "2026-08-30",
-      "width": 8814,
-      "height": 1441,
-      "bytes": 13561,
-      "path": "brand/logos/imogen-labs-dark.svg"
-    },
-    {
-      "product": "brand",
-      "screen": "wordmark",
-      "formFactor": "diagram",
-      "theme": "light",
-      "sourceEnv": "authored",
-      "captureDate": "2026-08-30",
-      "width": 8814,
-      "height": 1441,
-      "bytes": 13561,
-      "path": "brand/logos/imogen-labs-light.svg"
-    },
-    {
-      "product": "brand",
-      "screen": "avatar",
-      "formFactor": "diagram",
-      "theme": "dark",
-      "sourceEnv": "authored",
-      "captureDate": "2026-08-30",
-      "width": 400,
-      "height": 400,
-      "bytes": 392,
-      "path": "brand/logos/imogen-labs-avatar-dark.svg"
-    },
-    {
-      "product": "brand",
-      "screen": "avatar",
-      "formFactor": "diagram",
-      "theme": "light",
-      "sourceEnv": "authored",
-      "captureDate": "2026-08-30",
-      "width": 400,
-      "height": 400,
-      "bytes": 392,
-      "path": "brand/logos/imogen-labs-avatar-light.svg"
     }
   ],
   "skipped": [
